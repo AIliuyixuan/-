@@ -1,0 +1,11 @@
+#include "stm32f10x.h"
+#include "vartypes.h"
+#include "led.h"
+#include "rgb.h"
+#include "key.h"
+#include "seg.h"
+#include "16key.h"
+#include "exti.h"
+#include "systick.h"
+#include "time.h"
+
